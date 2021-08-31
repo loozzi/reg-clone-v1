@@ -1,0 +1,4 @@
+ldPath=C:\LDPlayer\LDPlayer4.0
+ho=Bao|Bien|Binh|Cai|Cam|Canh|Cao|Cap|Cam|Che|Chiem|Chu|Chau|Dai|Dieu|Dan|Dam|Dao|Dau|Dien|Dinh|Dieu|Doan|Do|Duong|Gia|Khau|Khong|Khu|Khuat|Khuc|Khuu|Kieu|Kim|Nguyen|Tran|Pham|Hoang|Phan|Bui|Ho|Ngo|Duong|Trinh|Truong|Vuong
+ten=Tung|Phuong|Trinh|Thu|Cuong|Tuan|Huong|Tai|Son|Khoa|Kiet|Dan|Manh|Khanh|Duong|Truong|Dat|Khoi|Ninh|Trang|Nhi|Phuc|Thao|Bang|Phuoc|Chuong|Hoai|Hoa|Hue|Mai|Thu|Cuc|Dao|Hung|Vuong|Tuyet|Thu|Tien|Tra|Binh|Trang|Linh|Lan
+sdt=+84234|+84231|+84123
